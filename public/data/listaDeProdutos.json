@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Ração Premium Cães Adultos",
+    "preco": 189.90,
+    "categoria": "Ração",
+    "descricao": "Alimento completo com alta absorção de nutrientes para cães de médio e grande porte."
+  },
+  {
+    "nome": "Mordedor de Corda Nó",
+    "preco": 32.00,
+    "categoria": "Brinquedos",
+    "descricao": "Brinquedo resistente em algodão, ideal para auxiliar na limpeza dos dentes e reduzir o estresse."
+  },
+  {
+    "nome": "Shampoo Pelos Claros",
+    "preco": 45.50,
+    "categoria": "Higiene",
+    "descricao": "Fórmula neutra com extrato de camomila, realça o brilho natural e evita o amarelamento dos fios."
+  },
+  {
+    "nome": "Coleira Peitoral Ergonômica",
+    "preco": 78.90,
+    "categoria": "Acessórios",
+    "descricao": "Ajustável e acolchoada, proporciona maior conforto e segurança durante o passeio."
+  },
+  {
+    "nome": "Ração Úmida Sachê Gatos Castrados",
+    "preco": 4.50,
+    "categoria": "Ração",
+    "descricao": "Pedaços ao molho que auxiliam na saúde do trato urinário e controle de peso."
+  },
+  {
+    "nome": "Torre de Arranhar para Gatos",
+    "preco": 120.00,
+    "categoria": "Brinquedos",
+    "descricao": "Estrutura revestida em sisal com plataforma superior, perfeita para afiar as unhas e brincar."
+  },
+  {
+    "nome": "Comedouro de Inox Antiderrapante",
+    "preco": 55.00,
+    "categoria": "Acessórios",
+    "descricao": "Material durável e fácil de higienizar, com base de borracha para evitar deslizamentos."
+  },
+  {
+    "nome": "Escova de Dentes Dedal",
+    "preco": 12.90,
+    "categoria": "Higiene",
+    "descricao": "Kit com duas unidades em silicone macio para facilitar a escovação dentária de cães e gatos."
+  },
+  {
+    "nome": "Bolinha de Borracha com Som",
+    "preco": 19.90,
+    "categoria": "Brinquedos",
+    "descricao": "Brinquedo sonoro clássico para estimular a atividade física e o instinto de caça."
+  },
+  {
+    "nome": "Cama Nuvem Ultra Macia",
+    "preco": 145.00,
+    "categoria": "Acessórios",
+    "descricao": "Formato redondo com enchimento fofinho, garantindo o melhor descanso para o seu pet."
+  }
+]

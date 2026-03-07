@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Mariana Oliveira",
+    "pet": "Thor (Golden Retriever)",
+    "comentario": "O atendimento no Pet&Style é impecável! O Thor adora o banho e sempre volta muito cheiroso.",
+    "estrelas": 5
+  },
+  {
+    "nome": "Ricardo Santos",
+    "pet": "Luna (Gata SRD)",
+    "comentario": "Excelente variedade de produtos e rações. Além disso, a equipe é muito cuidadosa com felinos.",
+    "estrelas": 5
+  },
+  {
+    "nome": "Carla Ferreira",
+    "pet": "Bibi (Poodle)",
+    "comentario": "A tosa higiênica foi feita com muita paciência. Recomendo muito para quem tem pets mais agitados.",
+    "estrelas": 4
+  },
+  {
+    "nome": "João Pedro",
+    "pet": "Max (Beagle)",
+    "comentario": "Preço justo e agendamento muito rápido pelo site. Facilitou muito a minha rotina.",
+    "estrelas": 5
+  },
+  {
+    "nome": "Ana Beatriz",
+    "pet": "Pipoca (Calopsita)",
+    "comentario": "Difícil encontrar lugares que cuidam bem de aves, mas no Pet&Style encontrei tudo o que precisava.",
+    "estrelas": 4
+  }
+]

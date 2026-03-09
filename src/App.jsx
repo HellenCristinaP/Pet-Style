@@ -32,8 +32,8 @@ function App() {
         setProdutos(dados);
 
         setTimeout(() => {
-        setCarregando(false);
-      }, 5000);
+          setCarregando(false);
+        }, 5000);
       } catch (error) {
         console.error("Erro ao carregar produtos...", error)
       }
@@ -47,7 +47,7 @@ function App() {
     <>
       <Header />
       <Hero />
-      <h2 id="produtos">Produtos disponiveis em nossas lojas</h2>
+      <h2>Produtos disponiveis em nossas lojas</h2>
       <div className="grid justify-center grid-cols-2 justify-items-center md:grid-cols-4 my-5">
         {
           listaDeCategorias.categoria.map((nome, index) => <Categorias categoria={nome} key={index} selecao={() => setSelect(nome)} />)
@@ -72,20 +72,22 @@ function App() {
               ))
         }
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 my-5">
-        {
-          depoimentos.map((depoimento, index) => (
-            <Depoimentos
-              nome={depoimento.nome}
-              pet={depoimento.pet}
-              comentario={depoimento.comentario}
-              estrelas={depoimento.estrelas}
-              key={index}
-            />
-          ))
-        }
+      <div className="bg-orange-100 pt-2 pb-10">
+        <h2>Depoimentos</h2>
+        <div className="grid grid-cols-1 gap-5 md:grid-cols-3 px-5">
+          {
+            depoimentos.map((depoimento, index) => (
+              <Depoimentos
+                nome={depoimento.nome}
+                pet={depoimento.pet}
+                comentario={depoimento.comentario}
+                estrelas={depoimento.estrelas}
+                key={index}
+              />
+            ))
+          }
+        </div>
       </div>
-      <hr />
       <Contatos />
     </>
   )

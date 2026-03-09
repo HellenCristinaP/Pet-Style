@@ -5,7 +5,7 @@ function contatos() {
         endereco: "Av. das Palmeiras, 1050, Bertioga - SP",
     };
     return (
-        <footer className="flex flex-col items-center my-5" id="contatos">
+        <footer className="flex flex-col items-center py-5 pb-30 border-t border-orange-200" id="contatos">
             <p className="font-bold">{infoContato.endereco}</p>
             <a href={`tel:${infoContato.telefone}`}>{infoContato.telefone}</a>
             <a href={`mailto:${infoContato.email}`}>{infoContato.email}</a>

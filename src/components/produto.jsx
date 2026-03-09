@@ -10,3 +10,4 @@ function Produto ({ categoria, nome, preco, descricao}){
 }
 
 export default Produto;
+

@@ -25,6 +25,17 @@ nav>a {
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.2), 0 0 10px rgba(255, 218, 34, 0.712);
 }
 
+footer {
+    background-image: url('/public/pexels-lum3n-44775-406014.jpg');
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.container-footer {
+    padding-bottom: 8rem;
+}
+
 footer>a{
     color:rgb(148, 97, 2);
     font-weight: bold;
